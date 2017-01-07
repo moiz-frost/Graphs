@@ -1,0 +1,6 @@
+//             System.out.println("ID:" + b[0]);
+//             System.out.println("Label:" + b[1]);
+//             System.out.println("Gender:" + b[2]);
+//             System.out.println("Language:" + b[3]);
+//             System.out.println("Age:" + b[4]);
+//             System.out.println("=========================");
